@@ -1,0 +1,1 @@
+A test project for Unity ECS application in RTS game.
